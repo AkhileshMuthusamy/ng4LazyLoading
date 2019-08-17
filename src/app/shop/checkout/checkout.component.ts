@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 /**
- * Think this should work
+ * This is the decription of whole file
  */
 @Component({
   selector: 'app-checkout',
